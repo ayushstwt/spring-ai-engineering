@@ -1,4 +1,4 @@
-# Production-Ready PDF Chat Application Architecture
+# PDF Chat Application Architecture
 
 ## Tech Stack
 
